@@ -1,17 +1,17 @@
-Tumblelog Application with Flask and MongoEngine 
+A Flask Tumblelog
+=================
+
+Tumblelog Application with Flask and MongoEngine
 
 Installation
+------------
 
-Install pip
-Make a virtualenv for this project
-Install the required dependencies: pip install -r requirements.txt
+  1. Install [pip](http://www.pip-installer.org/en/latest/installing.html)
+  2. Make a [virtualenv](http://virtualenvwrapper.readthedocs.org/en/latest/#introduction) for this project
+  3. Install the required dependencies: `pip install -r requirements.txt`
+
 Run the tumblelog:
+   
+    python manage.py runserver
 
-python manage.py runserver
-Goto: http://localhost:5000# Tumblelog
-# Tumblelog
-# Tumblelog
-# Tumblelog
-# blog-application
-# blog-application
-# sample-application
+Goto: [http://localhost:5000](http://localhost:5000)
